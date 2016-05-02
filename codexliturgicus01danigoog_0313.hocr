@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./codexliturgicus01danigoog_0313.png"; bbox 0 0 3022 4920; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 290 362 1303 669">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 290 312 1303 669">
+     <span class='ocr_line' id='line_1_1' title="bbox 290 362 1303 669; baseline 0.008 -8"><span class='ocrx_word' id='word_1_1' title='bbox 290 460 657 667; x_wconf 62' lang='lat' dir='ltr'><strong>‚oomflx</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 713 362 1303 669; x_wconf 70' lang='lat' dir='ltr'><strong>mvnfflcv&#39;s</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 240 1020 1346 1139">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 240 1020 1346 1139">
+     <span class='ocr_line' id='line_1_2' title="bbox 240 1020 1346 1139; baseline 0.002 -3"><span class='ocrx_word' id='word_1_3' title='bbox 240 1020 781 1139; x_wconf 78' lang='lat' dir='ltr'><strong>EOCLESIAE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 855 1020 1346 1138; x_wconf 72' lang='lat' dir='ltr'><strong>VNIVERSA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 462 1489 1189 1573">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 462 1489 1189 1573">
+     <span class='ocr_line' id='line_1_3' title="bbox 462 1489 1189 1573; baseline 0.003 -2"><span class='ocrx_word' id='word_1_5' title='bbox 462 1489 1189 1573; x_wconf 75' lang='lat' dir='ltr'><strong>lNEPlTOMENREMCTVS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1516 4920">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1516 4920">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1516 4920; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1516 4920; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
